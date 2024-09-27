@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMapa_JOVT", "AppMapa_JOVT\AppMapa_JOVT.csproj", "{EC9EC86B-D03F-4355-9CD8-D49308F7B720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9EC86B-D03F-4355-9CD8-D49308F7B720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9EC86B-D03F-4355-9CD8-D49308F7B720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9EC86B-D03F-4355-9CD8-D49308F7B720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9EC86B-D03F-4355-9CD8-D49308F7B720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43AEA71-D630-4F54-9A86-9A033BF72710}
+	EndGlobalSection
+EndGlobal
